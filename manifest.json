@@ -1,0 +1,18 @@
+{
+  "id": "every-joule",
+  "title": { "en": "Every Joule", "zh": "每一焦耳" },
+  "intro": {
+    "en": "Lift a ball, stretch a spring, and switch on a lamp. Joules move between energy stores while the total on the plaque stays the same.",
+    "zh": "举起小球、拉开弹簧、打开台灯。焦耳在各个能量储存之间转移，铭牌上的总量始终不变。"
+  },
+  "officialFiles": [
+    "vendor/index.html",
+    "vendor/joule.css",
+    "vendor/app.js",
+    "vendor/three.module.min.js",
+    "vendor/LICENSE.txt"
+  ],
+  "playHtml": "play.html",
+  "aspect": "phone",
+  "githubRepo": "ypaaaaaaaaaaaaa/every-joule"
+}
